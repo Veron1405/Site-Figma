@@ -1,0 +1,33 @@
+* {
+    border: 0;
+    margin: 0;
+}
+.header {
+    background-color: #00264D;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 250px;
+}
+p {
+    position: relative;
+    width: 300px;
+    color: white;
+    font: 300 1.1rem "lucida", sans-serif;
+    right: 150px;
+
+}
+.menina {
+    position: relative;
+    left: 210px;
+    width: 350px;
+    height: 250px;
+    
+}
+.logo {
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 550px;
+}       

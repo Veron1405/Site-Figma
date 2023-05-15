@@ -1,0 +1,51 @@
+.contanier2 {
+    width: 1465px;
+    height: 100px;
+    background-color:#F58733;
+    display: flex;
+    justify-content: space-around;
+    }
+
+.contanier {
+    width: 1465px;
+    height: 220px;
+    background-color: #00264D;
+
+}
+.img {
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+}
+img {
+    width: 500px;
+}
+p {
+    width: 300px;
+    color: white;
+}
+
+
+
+
+/* .img {
+    position: absolute;
+    width: 887.03px;
+    height: 0px;
+    text-align: center;
+    
+    background: url(.png);
+    transform: rotate(0.05deg);
+}
+.img img {
+    width: 400px;
+    position: relative;
+    left: 400px;
+    bottom: 210px;
+}
+.img2 img {
+    width: 450px;
+    position: relative;
+    left: 300px;
+    bottom: 220px;
+} */
